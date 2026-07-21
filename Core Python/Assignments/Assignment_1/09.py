@@ -1,0 +1,7 @@
+# 9. Program to Find the Area of a Triangle
+base = float(input("Enter base: "))
+height = float(input("Enter height: "))
+
+area = 0.5 * base * height
+
+print("Area of Triangle =", area)
